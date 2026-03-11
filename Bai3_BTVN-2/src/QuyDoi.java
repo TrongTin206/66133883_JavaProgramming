@@ -6,7 +6,7 @@
  * 
  */
 import java.util.Scanner;
-public class QuyDoiTienTe {
+public class QuyDoi {
 
 	/**
 	 * @param args
