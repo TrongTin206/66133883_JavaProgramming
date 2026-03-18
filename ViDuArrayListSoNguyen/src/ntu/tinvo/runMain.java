@@ -21,6 +21,19 @@ public class runMain {
 			// Thêm vào cuối danh sách
 		dsSoNguyen.add(tam);
 	}
+		
+		
+		//b. In ra danh sách vừa nhập
+		System.out.print("DAMH SÁCH VỪA NHẬP LÀ \n");
+// 		for(int i=0; i<dsSoNguyen.size(); i++){
+			//Lấy giá trị phần tử ở vị trí i, cất vào biến tạm
+//			Integer tam = dsSoNguyen.get(i);
+//			System.out.print(tam + " ");
+//		}
+		for (Integer x: dsSoNguyen) {
+			System.out.print(x + " ");
+		}	
+		
 	}
 
 }
