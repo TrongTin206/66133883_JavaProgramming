@@ -15,17 +15,10 @@
 
 ## 📚 Giới thiệu
 
-Dự án này nhằm mục đích học tập và thực hành **Lập trình Java**, đặc biệt là **OOP (Object-Oriented Programming)**.
-
----
-
-## 🧠 Kiến thức đã học
-
-* 🔹 Class & Object
-* 🔹 Constructor
-* 🔹 Encapsulation
-* 🔹 Getter & Setter
-* 🔹 Method
+- Java là ngôn ngữ lập trình hướng đối tượng (tựa C++) do Sun Microsystem đưa ra vào giữa
+thập niên 90.
+- Chương trình viết bằng ngôn ngữ lập trình java có thể chạy trên bất kỳ hệ thống nào có cài
+máy ảo java (Java Virtual Machine). 
 
 ---
 
@@ -46,15 +39,3 @@ public class ChuNhat {
     }
 }
 ```
-
----
-
-## 📸 Demo
-
-👉 Thêm ảnh project của bạn tại đây
-
----
-
-## ❤️ Cảm ơn
-
-Cảm ơn bạn đã xem project!
