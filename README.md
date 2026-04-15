@@ -6,9 +6,9 @@
 
 🏫 Trường         Đại học Nha Trang 
 
-👨‍🎓 Sinh viên      Võ Trọng Tín     
+👨‍🎓 Sinh viên   :   Võ Trọng Tín     
 
-🆔 MSSV           66133883        
+🆔 MSSV     :      66133883        
 
 📬Gmail : tin.vt.66cntt@ntu.edu.vn
 
