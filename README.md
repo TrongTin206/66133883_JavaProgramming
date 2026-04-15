@@ -4,10 +4,10 @@
 
 ## 📋 Thông tin
 
-|👤 Thông tin    |  📌 Chi tiết  |     
-----------------  ----------------- 
 🏫 Trường         Đại học Nha Trang 
-👨‍🎓 Sinh viên      Võ Trọng Tín      
+
+👨‍🎓 Sinh viên      Võ Trọng Tín     
+
 🆔 MSSV           66133883        
 
 ---
