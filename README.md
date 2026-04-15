@@ -1,6 +1,5 @@
 # 💻 LẬP TRÌNH JAVA
 
-
 ---
 
 ## 📋 Thông tin
@@ -22,20 +21,27 @@ máy ảo java (Java Virtual Machine).
 
 ---
 
+## 🎯 Mục tiêu
+Cung cấp cho sinh viên những kiến thức cho việc lập chương trình cho máy tính bằng ngôn ngữ Java, tập trung vào cài đặt kỹ thuật lập trình hướng đối tượng và khai thác gói/lớp thư viện của Java để xây dựng các ứng dụng có giao diện người dùng đồ họa (GUI).
+
+--- 
+
+## 📊 Chuẩn đầu ra
+
+- Lập trình được các bài toán cơ bản sử dụng cú pháp Java căn bản
+- Cài đặt được ứng dụng hướng đối tượng cơ bản
+- Khai thác được các gói/lớp thư viện Java Swing/JavaFX để xây dựng ứng dụng có giao diện trực quan
+- Xây dựng ứng dụng Java có tổ chức và xử lý dữ liệu hiệu quả với Java Collections Framework
+- Xây dựng ứng dụng cơ bản trên môi trường mạng/Internet.
+
+---
+
 ## 💻 Ví dụ minh họa
 
-```java
-public class ChuNhat {
-    private double dai;
-    private double rong;
+public class XinChao {
 
-    public ChuNhat(double dai, double rong) {
-        this.dai = dai;
-        this.rong = rong;
-    }
-
-    public double tinhDienTich() {
-        return dai * rong;
-    }
+	public static void main(String[] args) {
+		System.out.print("Xin Chào Java");
+	}
 }
 ```
