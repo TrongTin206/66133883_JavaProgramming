@@ -4,11 +4,11 @@
 
 ## 📋 Thông tin
 
-| 👤 Thông tin     | 📌 Chi tiết       |
-| ---------------- | ----------------- |
-| 🏫 Trường        | Đại học Nha Trang |
-| 👨‍🎓 Sinh viên     | Võ Trọng Tín      |
-| 🆔 MSSV          | 66133883        |
+👤 Thông tin      📌 Chi tiết       
+----------------  ----------------- 
+🏫 Trường         Đại học Nha Trang 
+👨‍🎓 Sinh viên      Võ Trọng Tín      
+🆔 MSSV           66133883        
 
 ---
 
@@ -39,8 +39,10 @@ Cung cấp cho sinh viên những kiến thức cho việc lập chương trình
 ## 💻 Ví dụ minh họa
 
 public class XinChao {
+
 	public static void main(String[] args) {
 		System.out.print("Xin Chào Java");
 	}
 }
+
 ```
