@@ -10,6 +10,8 @@
 
 🆔 MSSV           66133883        
 
+📬Gmail : tin.vt.66cntt@ntu.edu.vn
+
 ---
 
 ## 📚 Giới thiệu
