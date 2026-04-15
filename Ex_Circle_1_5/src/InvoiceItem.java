@@ -5,7 +5,7 @@ public class InvoiceItem {
 	private int qty;
 	private double unit_price;
 	
-	public InvoiceItem(String id, String desc, int qty, double unit_price) {
+	public InvoiceItem(String id, String desc, int qty, double unit_price) { 
 		this.id = id; 
 		this.desc = desc;
 		this.qty = qty;
