@@ -40,7 +40,6 @@ public class Account {
         }
         return amount;
     }
-
     public int transferTo(Account other, int money) {
         if (money <= amount) {
             amount -= money;
