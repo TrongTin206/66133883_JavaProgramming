@@ -1,6 +1,6 @@
 
 public class Account {
-	private String accId;
+	private String accId; 
     private String accName;
     private int amount;
 
