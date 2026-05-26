@@ -13,8 +13,9 @@ import javafx.stage.Stage;
  */
 public class App extends Application {
 	@Override
-    public void start(Stage primaryStage) {
-    	Button btn = new Button();
+	public void start(Stage primaryStage) throws Exception {
+		//Tạo nút bấm
+		Button btn = new Button();
 		btn.setText("Xin chào JavaFX");
 		
 		//Tạo cửa sổ
@@ -27,10 +28,15 @@ public class App extends Application {
 		primaryStage.setTitle("Hello World!");
 		primaryStage.setScene(scn);
 		primaryStage.show();
-    }
+		
+		
+		
+	}
 
-    public static void main(String[] args) {
-        launch();
-    }
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		launch(args);
+
+	}
+
 }
-
